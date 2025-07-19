@@ -147,5 +147,10 @@ frontend/
 
 
 HOW TO RUN THE PROJECT:
-(1)npm run dev for frontend
-(2)npm run server.
+=> You need to open the terminal and install node modules(Command: npm i) then install the dependencies 
+=>cd Client(opens the client folder)
+=>npm run dev 
+
+=>cd server
+=>npm run server
+(use mongoDB Compass)
